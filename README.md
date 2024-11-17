@@ -30,7 +30,9 @@ Jedes bild hat eine eigene, sofern diese über CC0, gemeinfrei(public domain) hi
 
 Darf ich jedes der Bilder in einem Meme usw. verwenden?
 Nein, daher gilt wie schon oben beschrieben die individuellen Lizenzen zu beachten.
-Der Fall, dass hier jedes Bild abgebildet werden darf ist  dem besonderen Klauseln der CC BY 2.0 und CC BY 3.0 Lizenzierungen zu verdanken.
+
+Wie ist dieses Werk dann zulässig?
+Der Fall, dass hier jedes Bild abgebildet werden darf ist  dem besonderen Klauseln der vorherigen CC BY 2.0 nun CC BY-ND 3.0 Lizenzierung zu verdanken.
 Sammelwerke/Collective Works könne im Falle einer Lizenz: " Namensnennung – Keine Bearbeitung 2.0 " , https://creativecommons.org/licenses/by-nd/2.0/ 
 siehe https://creativecommons.org/licenses/by-nd/2.0/legalcode.en ,Verwendung finden.
 Siehe ""Kollektivwerk" ein Werk, wie z. B. eine Zeitschriftenausgabe, eine Anthologie oder 
