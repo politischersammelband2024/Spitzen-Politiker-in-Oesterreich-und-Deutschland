@@ -3,9 +3,6 @@ html, body {
 }
 
 
-p {
-    font-weight: bold;
-}
 
 div.kontakt::before{
 content:"benjamin.pach";
@@ -49,4 +46,3 @@ div{
   max-width: 100%;
   height: auto;
 }
-
