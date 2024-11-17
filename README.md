@@ -2,7 +2,7 @@
 "Collective Work" Sammelband "Spitzen-Politiker in Österreich und Deutschland" - Edition ,17.11.2024, EU, Wien, Österreich
 
 Lizenzierung
-1.)GFDL 1.3 License, "GNU-Lizenz für freie Dokumentation":
+GFDL 1.3 License, "GNU-Lizenz für freie Dokumentation":
 
 Diese Arbeit:
 "Darf mit "separaten und unabhängigen" Werken in einem "Speicher- oder Verbreitungsmedium" kombiniert werden, ohne dass die GFDL für die anderen Werke gelten muss"
