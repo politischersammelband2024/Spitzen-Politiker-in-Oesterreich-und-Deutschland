@@ -11,13 +11,9 @@ This work: "May be combined with "separate and independent" works in a "storage 
 GFDL 1.3 Lizenz zum nachlesen
 
 I agree to dual-license my text contributions, unless otherwise stated, under Wikipedia's copyright terms, and the Creative Commons Attribution-No Derivative Works 3.0 license. Please be aware that other contributors might not do the same, so if you want to use my contributions under the Creative Commons terms, please check the CC dual-license and Multi-licensing guides. 
-This work:
-May be "assembled into a collective whole" with one or more "separate and independent works" without requiring that CC-BY-SA apply to the other works
 
-2.)"Doppellizenziert mit der Creative Commons Attribution No Derivative Works 3.0 License Ich erkläre mich damit einverstanden, dass meine Textbeiträge, sofern nicht anders angegeben, unter den Copyright-Bedingungen von Wikipedia und der Creative Commons Attribution-No Derivative Works 3.0-Lizenz doppelt lizenziert werden. Bitte beachten Sie, dass andere Mitwirkende dies möglicherweise nicht tun. Wenn Sie also meine Beiträge unter den Creative-Commons-Bedingungen verwenden möchten, lesen Sie bitte die CC-Doppellizenz- und Multilizenz-Leitfäden."
 
-Diese Arbeit:
-"Kann mit einem oder mehreren "separaten und unabhängigen Werken" zu einem "kollektiven Ganzen" zusammengefügt werden, ohne dass CC-BY-SA für die anderen Werke gelten muss" Übersetzt mit DeepL.com (kostenlose Version)"
+"Doppellizenziert mit der Creative Commons Attribution No Derivative Works 3.0 License Ich lizenziere meine Beiträge zusätzlich unter der Lizenz Creative Commons „Namensnennung 3.0 Deutschland“. Bitte beachten, dass andere Bearbeiter das möglicherweise nicht tun. Für weitere Informationen siehe Wikipedia:Mehrfachlizenzierung. "
 
 FAQ:
 Wer ist zuständig/Rechteinhaber?
