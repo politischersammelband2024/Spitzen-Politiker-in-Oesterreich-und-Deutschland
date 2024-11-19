@@ -10,10 +10,10 @@ Diese Arbeit:
 This work: "May be combined with "separate and independent" works in a "storage or distribution medium" without requiring the GFDL apply to the other works"
 GFDL 1.3 Lizenz zum nachlesen
 
-I agree to dual-license my text contributions, unless otherwise stated, under Wikipedia's copyright terms, and the Creative Commons Attribution-No Derivative Works 3.0 license. Please be aware that other contributors might not do the same, so if you want to use my contributions under the Creative Commons terms, please check the CC dual-license and Multi-licensing guides. 
+I agree to dual-license my text contributions, unless otherwise stated, under herein mentioned copyright terms, and the Creative Commons Attribution-No Derivative Works 3.0 license. Please be aware that other contributors might not do the same, so if you want to use my contributions under the Creative Commons terms, please check the CC dual-license and Multi-licensing guides*. 
 
 
-"Doppellizenziert mit der Creative Commons Attribution No Derivative Works 3.0 License Ich lizenziere meine Beiträge zusätzlich unter der Lizenz Creative Commons „Namensnennung 3.0 Deutschland“. Bitte beachten, dass andere Bearbeiter das möglicherweise nicht tun. Für weitere Informationen siehe Wikipedia:Mehrfachlizenzierung. "
+"Doppellizenziert mit der Creative Commons Attribution No Derivative Works 3.0 License Ich lizenziere meine Beiträge zusätzlich unter der Lizenz Creative Commons „Namensnennung 3.0 Deutschland“. Bitte beachten, dass andere Bearbeiter das möglicherweise nicht tun. Für weitere Informationen siehe Mehrfachlizenzierung*. "
 
 FAQ:
 Wer ist zuständig/Rechteinhaber?
@@ -49,6 +49,7 @@ Translated with DeepL.com (free version)
 
 See/Siehe dazu:
 https://www.gnu.org/licenses/fdl-1.3.html 
+*
 https://en.wikipedia.org/wiki/Wikipedia:Multi-licensing 
 https://meta.wikimedia.org/wiki/Guide_to_the_dual-license 
 https://creativecommons.org/licenses/by-nd/3.0/
